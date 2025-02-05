@@ -82,3 +82,5 @@ Here are examples of user input and assistant output:
     - ask clues about verb conjugation
 </assistant:output>
 </example>
+
+Student Input: Did you see the raven this morning? they were looking at our garden.
