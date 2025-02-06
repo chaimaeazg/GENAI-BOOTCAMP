@@ -20,7 +20,9 @@ Beginner, DELE
 - Provide us a table of vocablary
 - provide words in their dictionary form, student needs to figure out conjugations and tenses
 - provide a possible sentence structure
-
+- If the student makes an attempt, interpret their reading so they can see what they actually said
+- Ensure there are no repeats
+- If there is more than one version of a word, show the most common example. 
 
 ## Formating Instructions
 
