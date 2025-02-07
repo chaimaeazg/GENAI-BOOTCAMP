@@ -98,4 +98,4 @@ When the input sounds like a question about langauge learning then we can assume
 - Try and provide a non-nested bulleted list
 - talk about the vocabulary but try to leave out the spanish words because the student can refer to the vocabulary table 
 
-Student Input: Did you see the raven this morning? they were looking at our garden.
+- reference the <file>considerations-examples.xml</file> for good consideration examples

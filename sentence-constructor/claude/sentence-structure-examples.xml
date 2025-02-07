@@ -4,19 +4,19 @@
         <pattern>[Subject] [Adjective]</pattern>
     </sentence>
     <sentence>
-        <english>The raven is in the garden.</english>
+        <english>The cat is in the room.</english>
         <pattern>[Location] [Subject] [Verb]</pattern>
     </sentence>
     <sentence>
-        <english>Put the garbage in the garden.</english>
+        <english>Put the book there.</english>
         <pattern>[Location] [Object] [Verb]</pattern>
     </sentence>
     <sentence>
-        <english>Did you see the raven?</english>
+        <english>Did you see the dog?</english>
         <pattern>[Subject] [Object] [Verb]?</pattern>
     </sentence>
     <sentence>
-        <english>This morning, I saw the raven.</english>
+        <english>This morning, I saw the butterfly.</english>
         <pattern>[Time] [Subject] [Object] [Verb]</pattern>
     </sentence>
     <sentence>
@@ -28,15 +28,15 @@
         <pattern>[Object] [Verb]?</pattern>
     </sentence>
     <sentence>
-        <english>The raven is looking at the garden.</english>
+        <english>The student is looking at the book.</english>
         <pattern>[Subject] [Verb] [Location]</pattern>
     </sentence>
     <sentence>
-        <english>The raven is in the garden, and it is looking at the flowers.</english>
+        <english>The teacher is in the class, and they are reading a book.</english>
         <pattern>[Location] [Subject] [Verb], [Object] [Verb]</pattern>
     </sentence>
     <sentence>
-        <english>I saw the raven because it was loud.</english>
+        <english>I saw the train because it was loud.</english>
         <pattern>[Time] [Subject] [Object] [Verb] [Reason] [Subject] [Verb]</pattern>
     </sentence>
 </sentence_structures-examples>
