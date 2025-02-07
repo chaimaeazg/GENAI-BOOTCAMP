@@ -8,7 +8,7 @@ https://www.perplexity.ai/hub/technical-faq/what-model-does-perplexity-use-and-w
 
 https://www.perplexity.ai/hub/technical-faq/what-advanced-ai-models-does-perplexity-pro-unlock
 
-We also explored Deepseek R-1 and OpenAI's o3-mini in the spanish sentence constructor video.
+Even if i'm using a free version of perplexity, i explore Deepseek R-1 and OpenAI's o3-mini as done in the spanish sentence constructor video.
 
 ### Prompting Guides
 https://www.perplexity.ai/hub/faq/prompting-tips-and-examples-on-perplexity
