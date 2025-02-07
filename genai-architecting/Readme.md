@@ -7,17 +7,17 @@ They want to purchase a high-performance computer for AI tasks with a budget bet
 
 ### Hardware specifications needed:
 
-    High-end GPU capable of running AI models
-    Sufficient RAM for concurrent user sessions
-    Fast storage solutions for database access
-    Reliable cooling system for 24/7 operation
+- High-end GPU capable of running AI models
+- Sufficient RAM for concurrent user sessions
+- Fast storage solutions for database access
+- Reliable cooling system for 24/7 operation
 
 
 ### Network requirements:
 
-    High-speed internet connection
-    Backup connection for redundancy
-    Local network optimization
+- High-speed internet connection
+- Backup connection for redundancy
+- Local network optimization
 
 ## Assumptions
 
@@ -28,23 +28,23 @@ Our plan involves setting up a single computer in our office with an internet co
 
 ### Technical Risks:
 
-Hardware failure scenarios
-Network connectivity issues
-Model performance limitations
+- Hardware failure scenarios
+- Network connectivity issues
+- Model performance limitations
 
 
 ### Business Risks:
 
-Future model compatibility
-Scaling limitations
-Maintenance costs
+- Future model compatibility
+- Scaling limitations
+- Maintenance costs
 
 
 ### Security Risks:
 
-Data breach prevention
-Access control
-Backup procedures
+- Data breach prevention
+- Access control
+- Backup procedures
 
 ## Data Strategy
 
