@@ -1,0 +1,42 @@
+<sentence_structures-examples>
+    <sentence>
+        <english>The bird is black.</english>
+        <pattern>[Subject] [Adjective]</pattern>
+    </sentence>
+    <sentence>
+        <english>The raven is in the garden.</english>
+        <pattern>[Location] [Subject] [Verb]</pattern>
+    </sentence>
+    <sentence>
+        <english>Put the garbage in the garden.</english>
+        <pattern>[Location] [Object] [Verb]</pattern>
+    </sentence>
+    <sentence>
+        <english>Did you see the raven?</english>
+        <pattern>[Subject] [Object] [Verb]?</pattern>
+    </sentence>
+    <sentence>
+        <english>This morning, I saw the raven.</english>
+        <pattern>[Time] [Subject] [Object] [Verb]</pattern>
+    </sentence>
+    <sentence>
+        <english>Are you going?</english>
+        <pattern>[Subject] [Verb]?</pattern>
+    </sentence>
+    <sentence>
+        <english>Did you eat the food?</english>
+        <pattern>[Object] [Verb]?</pattern>
+    </sentence>
+    <sentence>
+        <english>The raven is looking at the garden.</english>
+        <pattern>[Subject] [Verb] [Location]</pattern>
+    </sentence>
+    <sentence>
+        <english>The raven is in the garden, and it is looking at the flowers.</english>
+        <pattern>[Location] [Subject] [Verb], [Object] [Verb]</pattern>
+    </sentence>
+    <sentence>
+        <english>I saw the raven because it was loud.</english>
+        <pattern>[Time] [Subject] [Object] [Verb] [Reason] [Subject] [Verb]</pattern>
+    </sentence>
+</sentence_structures-examples>
