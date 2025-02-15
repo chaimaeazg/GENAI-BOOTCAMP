@@ -28,7 +28,7 @@ This page contains the following components
     - study streak eg. 3 days
 
 - Start Studying Button 
-    - goes to study activites page
+    - goes to study activities page
 
 #### Needed API Endpoints
 
@@ -108,15 +108,14 @@ Also the after form is submitted the page will redirect to the study session sho
 The purpose of this page is to show a collection of words with their romaji, meaning and a part of speech.
 
 #### Components
--paginated word List
+- paginated word List
     - Columns
-        - Japanese
-        - Romaji
+        - Spanish
         - English
         - Correct count
         - Word Count
     - Pagination with 100 items per page
-    - Clicking the Japanese word will take us to the word show page 
+    - Clicking the Spanish word will take us to the word show page 
 
 #### Needed API Endpoints
 
@@ -129,8 +128,7 @@ The purpose of this page is to show a collection of words with their romaji, mea
 The purpose of this page is to show information about a specific word.
 
 #### Components
-- Japanese
-- Romaji
+- Spanish
 - English
 - Study Statistics
     - Correct Count
@@ -243,3 +241,6 @@ The purpose of this page is to make configuration to the study portal
 #### Needed API Endpoints
 - POST api/reset-history
 - POST api/full-reset
+
+
+
