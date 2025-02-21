@@ -1,0 +1,26 @@
+{
+	"groups": [
+		{"id": 1, "name": "Basic Verbs"},
+		{"id": 2, "name": "Food Vocabulary"},
+		{"id": 3, "name": "Adjectives"},
+		{"id": 4, "name": "Family Members"},
+		{"id": 5, "name": "Common Phrases"}
+	],
+	"words": [
+		{"id": 1, "spanish": "hablar", "english": "to speak", "group_id": 1},
+		{"id": 2, "spanish": "comer", "english": "to eat", "group_id": 1},
+		{"id": 3, "spanish": "correr", "english": "to run", "group_id": 1},
+		{"id": 4, "spanish": "manzana", "english": "apple", "group_id": 2},
+		{"id": 5, "spanish": "pan", "english": "bread", "group_id": 2},
+		{"id": 6, "spanish": "leche", "english": "milk", "group_id": 2},
+		{"id": 7, "spanish": "grande", "english": "big", "group_id": 3},
+		{"id": 8, "spanish": "pequeño", "english": "small", "group_id": 3},
+		{"id": 9, "spanish": "feliz", "english": "happy", "group_id": 3},
+		{"id": 10, "spanish": "madre", "english": "mother", "group_id": 4},
+		{"id": 11, "spanish": "padre", "english": "father", "group_id": 4},
+		{"id": 12, "spanish": "hermano", "english": "brother", "group_id": 4},
+		{"id": 13, "spanish": "Hola", "english": "Hello", "group_id": 5},
+		{"id": 14, "spanish": "Gracias", "english": "Thank you", "group_id": 5},
+		{"id": 15, "spanish": "¿Cómo estás?", "english": "How are you?", "group_id": 5}
+	]
+} 
