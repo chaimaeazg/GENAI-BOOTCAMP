@@ -1,0 +1,102 @@
+<core-vocab>
+Nouns
+
+French	English
+
+Maison	House
+Voiture	Car
+Chat	Cat
+Chien	Dog
+Livre	Book
+Table	Table
+Chaise	Chair
+Ami(e)	Friend
+École	School
+Famille	Family
+Pain	Bread
+Eau	Water
+Café	Coffee
+Téléphone	Phone
+Porte	Door
+Fenêtre	Window
+Lit	Bed
+Arbre	Tree
+Fleur	Flower
+Temps	Time
+Adjectives
+French	English
+Grand(e)	Big/Tall
+Petit(e)	Small
+Bon(ne)	Good
+Mauvais(e)	Bad
+Beau/Belle	Beautiful
+Jeune	Young
+Vieux/Vieille	Old
+Chaud(e)	Hot
+Froid(e)	Cold
+Nouveau/Nouvelle	New
+Propre	Clean
+Sale	Dirty
+Fort(e)	Strong
+Faible	Weak
+Heureux/Heureuse	Happy
+Triste	Sad
+Facile	Easy
+Difficile	Difficult
+Plein(e)	Full
+Vide	Empty
+Adverbs
+French	English
+Bien	Well
+Mal	Badly
+Vite	Quickly
+Lentement	Slowly
+Beaucoup	A lot
+Peu	Little
+Trop	Too much
+Assez	Enough
+Souvent	Often
+Parfois	Sometimes
+Toujours	Always
+Jamais	Never
+Ici	Here
+Là	There
+Maintenant	Now
+Aujourd'hui	Today
+Demain	Tomorrow
+Hier	Yesterday
+Ensemble	Together
+Partout	Everywhere
+
+
+
+Verbs
+
+
+French	English
+
+Être	To be
+Avoir	To have
+Aller	To go
+Faire	To do/Make
+Dire	To say
+Voir	To see
+Venir	To come
+Prendre	To take
+Parler	To speak
+Manger	To eat
+Boire	To drink
+Dormir	To sleep
+Lire	To read
+Écrire	To write
+Aimer	To like/Love
+Penser	To think
+Donner	To give
+Travailler	To work
+Regarder	To watch/Look
+Écouter	To listen
+Apprendre	To learn
+Comprendre	To understand
+Demander	To ask
+Répondre	To answer
+</core-vocab>

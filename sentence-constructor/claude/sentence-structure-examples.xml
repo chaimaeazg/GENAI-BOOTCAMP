@@ -1,0 +1,42 @@
+<sentence_structures-examples>
+    <sentence>
+        <english>The bird is black.</english>
+        <pattern>[Subject] [Adjective]</pattern>
+    </sentence>
+    <sentence>
+        <english>The cat is in the room.</english>
+        <pattern>[Location] [Subject] [Verb]</pattern>
+    </sentence>
+    <sentence>
+        <english>Put the book there.</english>
+        <pattern>[Location] [Object] [Verb]</pattern>
+    </sentence>
+    <sentence>
+        <english>Did you see the dog?</english>
+        <pattern>[Subject] [Object] [Verb]?</pattern>
+    </sentence>
+    <sentence>
+        <english>This morning, I saw the butterfly.</english>
+        <pattern>[Time] [Subject] [Object] [Verb]</pattern>
+    </sentence>
+    <sentence>
+        <english>Are you going?</english>
+        <pattern>[Subject] [Verb]?</pattern>
+    </sentence>
+    <sentence>
+        <english>Did you eat the food?</english>
+        <pattern>[Object] [Verb]?</pattern>
+    </sentence>
+    <sentence>
+        <english>The student is looking at the book.</english>
+        <pattern>[Subject] [Verb] [Location]</pattern>
+    </sentence>
+    <sentence>
+        <english>The teacher is in the class, and they are reading a book.</english>
+        <pattern>[Location] [Subject] [Verb], [Object] [Verb]</pattern>
+    </sentence>
+    <sentence>
+        <english>I saw the train because it was loud.</english>
+        <pattern>[Time] [Subject] [Object] [Verb] [Reason] [Subject] [Verb]</pattern>
+    </sentence>
+</sentence_structures-examples>

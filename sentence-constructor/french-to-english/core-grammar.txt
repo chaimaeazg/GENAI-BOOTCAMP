@@ -1,0 +1,65 @@
+<core-grammer>
+
+The 10 Essential French Grammar Rules for Beginners
+
+1. Gender of Nouns
+
+French nouns are either masculine (le) or feminine (la)
+There is no neutral gender
+Memorize the gender of each new noun
+
+2. Article Agreement
+
+Articles must match the noun's gender and number
+Masculine: le, un
+Feminine: la, une
+Plural: les, des
+
+3. Adjective Agreement
+
+Adjectives change form to match the noun's gender and number
+Feminine: usually add -e (e.g., petit → petite)
+Plural: usually add -s (e.g., petit → petits)
+
+4. Subject Pronouns
+
+Use subject pronouns to indicate the sentence's subject
+Singular: je (I), tu (you, informal), il/elle (he/she)
+Plural: nous (we), vous (you, formal/plural), ils/elles (they)
+
+5. Present Tense Conjugation
+
+French verbs are grouped into three main categories: -er, -ir, -re
+Each group has its own conjugation patterns
+Irregular verbs (être, avoir, aller) have unique patterns
+
+6. Negation
+
+Use the two-part negation: ne...pas
+Place ne before the verb and pas after
+Example: Je ne mange pas (I don't eat)
+
+7. Question Formation
+
+Use rising intonation to form questions
+Add est-ce que before a statement to form a question
+Invert the verb and subject to form a question
+
+8. Possessive Adjectives
+
+Possessive adjectives change form based on the possessed noun's gender
+Mon/ma/mes (my), ton/ta/tes (your), son/sa/ses (his/her)
+
+9. Position of Adjectives
+
+Most adjectives are placed after the noun
+BAGS adjectives (beauty, age, goodness, size) are placed before the noun
+Example: une grande maison (a big house)
+
+10. Formal vs. Informal Address
+
+Use tu for informal, single-person address
+Use vous for formal or plural address
+Using the wrong form can be a social faux pas
+
+</core-grammar>

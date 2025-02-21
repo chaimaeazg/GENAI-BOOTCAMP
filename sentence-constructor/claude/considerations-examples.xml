@@ -1,0 +1,39 @@
+<examples>
+   <example>
+       <output>
+           Considerations and Next Steps:
+
+           - This sentence uses "therefore" as a connection between two ideas
+           - In Spanish, we often use "por lo tanto" or "entonces" to show cause and effect
+           - The first part describes a state (being cold) in a location
+           - The second part describes an action that needs to be done
+           - Consider how to express "need to" in Spanish - this is often done with "tener que" or "deber"
+           - The word order will be similar to English, with some variations
+
+           You can:
+
+           - Try forming the first part about it being cold
+           - Ask about how to connect two ideas with "therefore"
+           - Ask about how to express "need to" in Spanish
+           - Make an attempt at the full sentence
+       </output>
+       <score>6</score>
+       <score_reason>
+           This example's output scores 6 because the returned information is too verbose
+       </score_reason>
+   </example>
+
+   <example>
+       <output>
+           Next Steps:
+
+           - This sentence connects two ideas with "por lo tanto" (therefore)
+           - Try breaking it into: "cold in office" + "turn on heater"
+           - Ask for help with any preposition usage
+       </output>
+       <score>10</score>
+       <score_reason>
+           This example's output scores 10 because the returned information is concise
+       </score_reason>
+   </example>
+</examples>
